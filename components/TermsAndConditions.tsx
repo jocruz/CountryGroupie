@@ -73,7 +73,7 @@ const TermsAndConditions: React.FC<TermsAndConditionsProps> = ({ onAccept }) => 
           onClick={handleAccept}
           style={{
             color: "black",
-            background: "gold",
+            background: "#dcd9cd",
             border: "none",
             padding: "8px 16px",
             borderRadius: "4px",
