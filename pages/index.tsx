@@ -137,7 +137,7 @@ const Home: NextPage = () => {
             )}
 <p className={`${styles.centeredText}`}>Step into the world of the Country Groupies, where the twang of guitars and heartfelt lyrics create a community of like-minded souls, embracing the timeless allure of country music. Being a Country Groupie means immersing yourself in a culture that celebrates the raw emotions, stories of life, and the power of country tunes to heal, uplift spirits, and set hearts dancing to the rhythm of life.</p>
 <p className={`${styles.limitText}`}>LIMITED TO ONE PURCHASE PER EMAIL ADDRESS</p>
-            <p>Price: 50&cent;</p>
+<p>Price: $150</p>
           </div>
           {clientSecret && (
             <Elements options={options} stripe={stripe}>
